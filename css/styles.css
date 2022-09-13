@@ -1,0 +1,18 @@
+.col-1 {
+    column-count: 3;
+    column-gap: 40px;
+    /* column-rule-style:solid;
+    column-rule-color: lightseagreen; */
+    column-rule: 2px solid lightseagreen;
+  }
+  h1 {
+      background-color: gray;
+      column-span: all;
+  } 
+  .column {
+      float: left;
+      width: 50%;
+      
+  
+  
+  }
